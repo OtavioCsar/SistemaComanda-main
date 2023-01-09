@@ -1,0 +1,17 @@
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\model\servicos\PedidoService.java
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\configuracoes\HibernateUtil.java
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\model\exception\ClienteException.java
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\model\exception\PedidoException.java
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\model\domain\Produto.java
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\model\domain\Cliente.java
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\model\domain\Pessoa.java
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\model\dao\ClienteDao.java
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\model\servicos\ProdutoService.java
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\model\domain\Pedido.java
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\model\servicos\ClienteService.java
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\model\dao\ProdutoDao.java
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\model\domain\TipoUnidade.java
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\SistemaComanda.java
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\model\dao\GenericDAO.java
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\model\dao\PedidoDao.java
+C:\Users\otavi\Desktop\Faculdade\POO2\projeto\SistemaComanda-main\src\main\java\br\com\unincor\sistemacomanda\model\exception\ProdutoException.java

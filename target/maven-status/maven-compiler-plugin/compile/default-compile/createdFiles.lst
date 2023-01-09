@@ -1,0 +1,17 @@
+br\com\unincor\sistemacomanda\model\exception\PedidoException.class
+br\com\unincor\sistemacomanda\model\exception\ClienteException.class
+br\com\unincor\sistemacomanda\SistemaComanda.class
+br\com\unincor\sistemacomanda\configuracoes\HibernateUtil.class
+br\com\unincor\sistemacomanda\model\dao\ClienteDao.class
+br\com\unincor\sistemacomanda\model\servicos\ProdutoService.class
+br\com\unincor\sistemacomanda\model\domain\Pessoa.class
+br\com\unincor\sistemacomanda\model\dao\ProdutoDao.class
+br\com\unincor\sistemacomanda\model\servicos\ClienteService.class
+br\com\unincor\sistemacomanda\model\dao\GenericDAO.class
+br\com\unincor\sistemacomanda\model\domain\TipoUnidade.class
+br\com\unincor\sistemacomanda\model\dao\PedidoDao.class
+br\com\unincor\sistemacomanda\model\domain\Produto.class
+br\com\unincor\sistemacomanda\model\servicos\PedidoService.class
+br\com\unincor\sistemacomanda\model\domain\Cliente.class
+br\com\unincor\sistemacomanda\model\domain\Pedido.class
+br\com\unincor\sistemacomanda\model\exception\ProdutoException.class
